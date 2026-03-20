@@ -43,7 +43,7 @@ The system eliminates the need for claims and ensures instant financial support.
 
 ## 👤 Personas & Scenarios
 
-### Persona 1: Raju (Delivery Rider)
+### Persona 1: Raju (swiggy)
 - Works 10–12 hours daily
 - Income fluctuates daily
 
@@ -52,7 +52,7 @@ Raju pays a small weekly premium. On a heavy rain day, the system detects rainfa
 
 ---
 
-### Persona 2: Priya (Urban Rider)
+### Persona 2: Priya (Urban company)
 - Depends on incentives
 - Faces low demand issues
 
@@ -117,7 +117,7 @@ AI adjusts pricing based on:
 
 ## 📱 Platform Choice
 
-We chose a **Mobile Application** because:
+We chose a ** web dev** because:
 - Delivery workers rely on smartphones
 - Real-time tracking is required
 - Notifications and GPS integration are essential
